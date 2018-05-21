@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://puu.sh/o8XAY/f5067b3a35.png" group-title="Entretenimiento",RCN
+http://usuarios.club/usuarios/src5/RCN/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/u8dw2/09ebeff330.png" group-title="Entretenimiento",RCN Novelas
+http://usuarios.club/usuarios/src4/RCNNovelas/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="Entretenimiento",Tlnovelas
+http://usuarios.club/usuarios/src5/Tlnovelas/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png" group-title="Entretenimiento",Unicable
+http://usuarios.club/usuarios/src1/Unicable/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png" group-title="HD",Unicable HD
+http://usuarios.club/usuarios/src5/Unicable_HD/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="HD",Universal HD
+http://usuarios.club/usuarios/src5/Universal_HD/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLcu/7ea24f7b73.png" group-title="Entretenimiento",Univision
+http://usuarios.club/usuarios/src5/Univision/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo
+http://usuarios.club/usuarios/src5/Telemundo/mayo/mayo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo HD
+http://usuarios.club/usuarios/src5/Telemundo_HD/mayo/mayo.m3u8
+#EXTINF:-1,PASIONES
+http://p4.giffy.be:8080/live/noeyes/noeyes/35232.ts
+#EXTINF:-1,TELEMUNDO EAST.
+http://p4.giffy.be:8080/live/noeyes/noeyes/31151.ts
+#EXTINF:-1,TELEMUNDO WEST.
+http://p4.giffy.be:8080/live/noeyes/noeyes/31868.ts
+#EXTINF:-1,UNIMAS
+http://p4.giffy.be:8080/live/noeyes/noeyes/31150.ts
+#EXTINF:-1,UNIVISION TELENOVELAS
+http://p4.giffy.be:8080/live/noeyes/noeyes/35229.ts
